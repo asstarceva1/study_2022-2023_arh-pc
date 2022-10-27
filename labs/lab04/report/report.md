@@ -158,13 +158,15 @@ ire-netinstall.html скачали архив install-tl-unx.tar.gz. (рис. [-
 ![Удаление файлов report.pdf и report.docx](image/15.png){ #fig:015 width=70% }
 
 Проверили, что после этой команды файлы report.pdf и report.docx были удалены.
-(рис. [-@fig:016]) (рис. [-@fig:017])
+(рис. [-@fig:016])
 
 ![Проверка удаления файлов report.pdf и report.docx (1)](image/16.png){ #fig:016 width=70% }
 
-![Проверка удаления файлов report.pdf и report.docx (2)](image/17.png){ #fig:017 width=70% }
 
-Открыли файл report.md c помощью текстового редактора gedit. (рис. [-@fig:018])
+
+Открыли файл report.md c помощью текстового редактора gedit. (рис. [-@fig:017]), (рис. [-@fig:018])
+
+![gedit](image/17.png){ #fig:017 width=70% }
 
 ![Файл report.md](image/18.png){ #fig:018 width=70% }
 
